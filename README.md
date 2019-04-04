@@ -1,9 +1,9 @@
-# tf_serving
-mnist example and myself example
+# TensorFlow Serving
+This a simple mnist example of using TensorFlow Serving.
 
-## 1 training and save model 
+## 1 training and saving model 
 
-$ python train.py --model_version=2 models/
+$ python train.py --model_version=3 models/
 
 ## 2 start service
 
